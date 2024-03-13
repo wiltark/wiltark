@@ -1,5 +1,6 @@
 ### bonjour 👋
-je développeur chez aoijs et kasycorp
+je développeur chez AkaruiDevelopment et Kasycorp / 
+I'm a developer at AkaruiDevelopment and Kasycorp
 <!--
 **wiltark/wiltark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +19,6 @@ Here are some ideas to get you started:
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=wiltark)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiltark)](https://github.com/anuraghazra/github-readme-stats)
+mes projet / my project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiltark&repo=kasylauncher)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkaruiDevelopment&repo=aoi.panel)](https://github.com/anuraghazra/github-readme-stats)
