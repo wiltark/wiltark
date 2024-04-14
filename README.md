@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 ## mes projet / my project<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kasycorp&repo=kasylauncher)](https://github.com/kasycorp/kasylauncher)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkaruiDevelopment&repo=aoi.panel)](https://github.com/AkaruiDevelopment/aoi.panel)
+soon aoi.panel v1
