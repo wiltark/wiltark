@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiltark)](https://github.com/anuraghazra/github-readme-stats)<br>
 ## mes projet / my project<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wiltark&repo=kasylauncher)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkaruiDevelopment&repo=aoi.panel)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kasycorp&repo=kasylauncher)](https://github.com/kasycorp/kasylauncher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkaruiDevelopment&repo=aoi.panel)](https://github.com/AkaruiDevelopment/aoi.panel)
