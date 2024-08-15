@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=wiltark)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=wiltark&theme=dracula)]()
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiltark)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiltark&theme=dracula)]()<br>
 ## mes projet / my project<br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kasycorp&repo=kasylauncher)](https://github.com/kasycorp/kasylauncher)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkaruiDevelopment&repo=aoi.panel)](https://github.com/AkaruiDevelopment/aoi.panel)
-soon aoi.panel v1
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kasycorp&repo=kasylauncher&theme=dracula)](https://github.com/kasycorp/kasylauncher)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AkaruiDevelopment&repo=aoi.panel&theme=dracula)](https://github.com/AkaruiDevelopment/aoi.panel)
+
