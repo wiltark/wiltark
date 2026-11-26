@@ -1,33 +1,42 @@
 # Bonjour 👋 / Hello 👋
 
-Je suis Wiltark — président de l'association et développeur web chez **alfycore**.
-Je suis également développeur web, créateur de launcher Minecraft et administrateur système chez **Multigames Studio**.
-En parallèle, j'interviens en tant que prestataire infrastructure & DevOps sur **Webgune** (KX712), une plateforme PaaS.
+Je suis **Wiltark**, **CTO de [Webgune](https://webgune.fr)** (KX712), une plateforme PaaS française pour héberger sites, applications, bots et bases de données, sans avoir à gérer de serveur.
+Je suis aussi président de l'association **alfycore**, et développeur web et administrateur système chez **Multigames Studio**.
+
+---
+
+## Webgune ☁️
+
+Je dirige la technique de Webgune : architecture, infrastructure, sécurité et équipe technique.
+Notre objectif : une plateforme fiable, sécurisée et hébergée en France, sur laquelle on déploie en quelques secondes.
 
 ---
 
 ## À propos de moi / About Me
 
-- 🔭 Je travaille actuellement sur : **mgs next launcher** (launcher Minecraft), **alfycore système** et l'infrastructure **Webgune**
-- 🌱 J'apprends actuellement : Next.js, Java et Kubernetes avancé
-- 💬 Parlez‑moi de : serveurs Minecraft, développement web, administration système et infrastructure cloud
+- 🔭 Je travaille actuellement sur : **Webgune**, **mgs next launcher** (launcher Minecraft) et **alfycore système**
+- 🌱 J'apprends actuellement : Rust, Kubernetes avancé, Next.js
+- 💬 Parlez-moi de : infrastructure cloud, Kubernetes, réseau, serveurs Minecraft
 - 📫 Contact : [contact@wiltark.fr](mailto:contact@wiltark.fr)
-- 🌐 Profil GitHub : [wiltark](https://github.com/wiltark)
 
 ---
 
-## Expérience Professionnelle / Professional Experience
+## Expérience / Experience
 
-- **alfycore** — Président de l'association & Développeur web
-- **Multigames Studio** — Développeur web · Créateur de launcher Minecraft · Administrateur Système
-- **Webgune (KX712)** — Prestataire Infrastructure & DevOps *(via alfycore)*
-  Conception et exploitation d'une plateforme PaaS : cluster Kubernetes multi-nœuds haute disponibilité, mesh réseau WireGuard, annonce BGP IPv6, stockage distribué (Longhorn), reverse-proxy TLS automatisé (Traefik), messagerie dual-stack IPv4/IPv6.
+- **Webgune (KX712)** — **CTO**
+- **alfycore** — Président de l'association & développeur web
+- **Multigames Studio** — Développeur web · créateur de launcher Minecraft · administrateur système
+
+---
+
+## Stack
+
+`Kubernetes` `Rust` `TypeScript` `Go` `Next.js` `Node.js` `Java` `Linux` `MySQL` `PostgreSQL`
 
 ---
 
 ## Ce que je peux faire pour toi / How I can help
 
-- Développement de sites et panneaux d'administration (Next.js / Node.js)
+- Infrastructure Kubernetes et haute disponibilité
+- Développement de sites et de panneaux d'administration (Next.js / Node.js)
 - Création et maintenance de launchers Minecraft
-- Administration système, déploiement et monitoring d'infrastructures
-- Infrastructure Kubernetes & réseau avancé (BGP, WireGuard, IPv6, haute disponibilité)
